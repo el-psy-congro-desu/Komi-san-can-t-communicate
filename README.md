@@ -2,5 +2,4 @@
 
 This my first application on SwiftUI.
 
-![image](k1.png)
-![image](k2.png)
+![image](k1.png) | ![image](k2.png)
