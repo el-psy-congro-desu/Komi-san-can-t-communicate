@@ -2,4 +2,7 @@
 
 This my first application on SwiftUI.
 
-![image](k1.png) | ![image](k2.png)
+<p float="left">
+  <img src="/k1.png" width="100" />
+  <img src="/k2.png" width="100" /> 
+</p>
