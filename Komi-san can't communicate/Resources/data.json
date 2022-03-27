@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Komi Shouko",
+        "about": "Komi is a high school girl who suffers from extreme social anxiety, which prevents her from communicating with other people, and she often expresses her thoughts in written form. However, due to her attractiveness and stoic appearance, she is very popular among her classmates. Her goal is to befriend 100 people before graduation from high school. Later on in the manga, she and Tadano become a couple.",
+        "imageName": "komiShouko"
+    },
+    {
+        "id": 2,
+        "name": "Hitohito Tadano",
+        "about": "Tadano is Komi's seatmate who inadvertently discovers her communication disorder. As such, he befriends her and promises to help her to accomplish her dream of having 100 friends, with him being the first. Later on in the manga, he and Komi become a couple. His name is a play on words; tada no hito (ただの人) means an ordinary/average person, and hito (仁) means human or compassionate.",
+        "imageName": "hitohitoTadano"
+    },
+    {
+        "id": 3,
+        "name": "Najimi Osana",
+        "about": "Najimi is a friend of Tadano's who has a habit of switching their gender. Their name is a play on words; osananajimi (幼馴染) literally means childhood friend.",
+        "imageName": "najimiOsana"
+    },
+    {
+        "id": 4,
+        "name": "Ren Yamai",
+        "about": "Yamai is a girl who has an uncanny obsession over Komi and is extremely hostile towards people whom she thinks are too close to her, especially Tadano. Her name is a reference to her yandere nature.",
+        "imageName": "yamai"
+    },
+    {
+        "id": 5,
+        "name": "Omoharu Nakanaka",
+        "about": "Nakanaka is immature and often thinks that she is a princess. Her hobby is gaming, and she regularly invites friends over to play games at her house, although she was initially opposed to the idea. Her name is a reference to her chūnibyō nature.",
+        "imageName": "nakanaka"
+    },
+    {
+        "id": 6,
+        "name": "Himiko Agari",
+        "about": "Agari is an anxious girl who has a masochist side, as she views herself as being Komi's dog. Her name is a pun on the Japanese word for stage fright and cowardice.",
+        "imageName": "agari"
+    },
+    {
+        "id": 7,
+        "name": "Makeru Yadano",
+        "about": "Yadano is a girl who sees herself as Komi's eternal rival as she aims to beat her at almost anything, even superficial matters. Her name is a reference to her nature of refusing to lose.",
+        "imageName": "yadano"
+    },
+    {
+        "id": 8,
+        "name": "Rumiko Manbagi",
+        "about": "Manbagi is a gyaru who joins Tadano and Komi's class in their second year of high school. She initially presented herself with an excessive amount of make-up, scaring people off and causing her to become increasingly lonely. Tadano and Komi befriend her and help her overcome her loneliness. Her name is a reference to her ganguro makeup style.",
+        "imageName": "rumiko"
+    },
+    {
+        "id": 9,
+        "name": "Shōsuke Komi",
+        "about": "Shoko's younger brother.",
+        "imageName": "shosuke"
+    },
+    {
+        "id": 10,
+        "name": "Hitomi Tadano",
+        "about": "Hitohito's younger sister.",
+        "imageName": "hitomi"
+    },
+    {
+        "id": 11,
+        "name": "Shūko Komi",
+        "about": "Shoko's mother.",
+        "imageName": "shuko"
+    },
+    {
+        "id": 12,
+        "name": "Masayoshi Komi",
+        "about": "Shouko's father.",
+        "imageName": "masayoshi"
+    }
+]
