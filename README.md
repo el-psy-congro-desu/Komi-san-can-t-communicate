@@ -2,5 +2,5 @@
 
 This my first application on SwiftUI.
 
-![title](k1.png)
-![title](k2.png)
+![image](k1.png)
+![image](k2.png)
